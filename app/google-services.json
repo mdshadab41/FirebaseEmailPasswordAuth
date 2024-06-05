@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870227155486",
+    "project_id": "fir-emailpasswordauth-c7cc2",
+    "storage_bucket": "fir-emailpasswordauth-c7cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870227155486:android:16ba8329820aa028212c0f",
+        "android_client_info": {
+          "package_name": "com.shadabrayeen.firebaseemailpasswordauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATDcEF7Y8FOhaX2xLBE826rv0OUutzJuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
